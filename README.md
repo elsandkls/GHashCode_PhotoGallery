@@ -1,0 +1,2 @@
+# GHashCode_PhotoGallery
+Entered the Google HashCode competition (first one ever!) with a friend another programer at SNHU, and during the competition he did all the work. My laptop had died and the temporary computer was not setup for python, or programming yet. By the end of the competition I had my system working, and was just getting started. I continued playing after the competition was over, but the checker was offline. I wrote my own checker based on the requirements provided to try and guage the effectiveness.  It is what it is. 
